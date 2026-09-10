@@ -1,0 +1,5 @@
+1	นาย ฐานธิษณ์ พัชรนันทวัจน์ 6729011021@cdti.ac.th     Team Leader	
+2	นาย สิทธา เฟื่องฟู	   6729011025@cdti.ac.th           DevOps Analyst	
+3	นาย ศรัณยพงศ์ พันธุศิลปาคม	6729011010@cdti.ac.th   Documentation Lead	
+4	นาย สามปลื้ม กระมลมานิตย์	6729011023@cdti.ac.th   Submission Checker	
+5	นาย กฤษณ์ บราซาน	6729011024@cdti.ac.th       Submission Checker	
